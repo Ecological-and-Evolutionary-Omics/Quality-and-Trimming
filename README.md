@@ -1,8 +1,8 @@
 # Quality Control and Trimming
 
-==:warning: **ATENTION**==
+=:warning: **ATENTION**=
 
-==we highly recomend the usage of conda environments with a **python version=3.6** to avoid installation problems or incompatibilities between the programs==
+=we highly recomend the usage of conda environments with a **python version=3.6** to avoid installation problems or incompatibilities between the programs=
 
 Reads obtained after sequencing need to be processed before using them. 
 This is mainly due to the fact that not all the nucleotides have the same quality. To see the quality of our reads first we need to check them
